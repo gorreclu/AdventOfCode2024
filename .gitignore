@@ -8,6 +8,7 @@
 *.o
 *.out
 *.exe
+day??/day??
 
 # Ignorer les autres dossiers temporaires
 /build/
