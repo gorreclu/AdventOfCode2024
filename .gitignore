@@ -1,0 +1,14 @@
+# Ignorer les fichiers spécifiques à l'IDE
+.vscode/
+
+# Ignorer les fichiers spécifiques à macOS
+.DS_Store
+
+# Ignorer les fichiers compilés
+*.o
+*.out
+*.exe
+
+# Ignorer les autres dossiers temporaires
+/build/
+/dist/

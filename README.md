@@ -1,4 +1,4 @@
-# Advent of Code Solutions 🎄
+# Advent of Code 2024 Solutions 🎄
 
 Welcome to my **Advent of Code** repository! This project contains my solutions for the annual Advent of Code programming challenge. Advent of Code is a fun and challenging way to practice problem-solving and algorithmic thinking during the holiday season.
 
@@ -43,7 +43,7 @@ Every puzzle is divided into two parts:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/gorreluc/adventofcode2024.git
+   git clone https://github.com/gorreclu/adventofcode2024.git
    cd adventofcode2024
    `````
 2. Navigate to the folder of the desired day (e.g., day01):
